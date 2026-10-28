@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/mychem",
   "title": "Mychem",
-  "description": "MyChem.info MCP.",
-  "version": "0.1.2",
+  "description": "MyChem.info MCP. Aggregated drug / chemical-compound annotation from the BioThings API: ChEMBL…",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/mychem",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-mychem",
