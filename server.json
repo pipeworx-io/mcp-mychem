@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/mychem",
   "title": "Mychem",
   "description": "MyChem.info MCP. Aggregated drug / chemical-compound annotation from the BioThings API: ChEMBL…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/mychem",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-mychem",
