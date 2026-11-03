@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-mychem",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MyChem.info MCP. Aggregated drug / chemical-compound annotation from the BioThings API: ChEMBL, DrugBank, PubChem, ChEBI, DrugCentral, FDA NDC, and more, merged per compound.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "mychem",
     "gatewaySlug": "mychem",
-    "sourceHash": "v1-d143aceaed1528258c2a8bab7b27d286d38a218f8de947a95d364d8a126b12d8",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-e2a44a60851aeef0083415aa2e1cd082637d61fe61324f19e7bffeee1a0178e2",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
